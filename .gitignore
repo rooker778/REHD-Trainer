@@ -1,0 +1,4 @@
+/REHDTrainer.exe
+*.pdb
+*.log
+__pycache__/
